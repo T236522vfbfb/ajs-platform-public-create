@@ -1,0 +1,47 @@
+PS C:\Users\Пользователь\Documents\ajs-platform-public-create> npm publish
+
+npm notice 
+npm notice 📦  @t236522vfbfb/ajs-platform-public-create@1.0.0
+npm notice === Tarball Contents ===
+npm notice 78B     .babelrc
+npm notice 30B     .browserslistrc
+npm notice 366B    dist/index.js
+npm notice 585B    package.json
+npm notice 63.9kB  pic/cdn.png
+npm notice 84.8kB  pic/developer-menu.png
+npm notice 163.7kB pic/dist.png
+npm notice 147.6kB pic/generate-token.png
+npm notice 85.1kB  pic/github-sudo.png
+npm notice 71.4kB  pic/instr1.png
+npm notice 101.2kB pic/instr2.png
+npm notice 63.6kB  pic/instr3.png
+npm notice 184.1kB pic/instr4.png
+npm notice 134.6kB pic/jsbin.png
+npm notice 30.3kB  pic/node.png
+npm notice 235.5kB pic/package-info.png
+npm notice 252.8kB pic/published.png
+npm notice 200.5kB pic/publishing.png
+npm notice 98.5kB  pic/raw.png
+npm notice 137.4kB pic/settings-menu.png
+npm notice 187.5kB pic/share.png
+npm notice 96.4kB  pic/snapshot.png
+npm notice 15.3kB  pic/token-generate-button.png
+npm notice 260.6kB pic/token-settings.png       
+npm notice 137.8kB pic/token.png
+npm notice 162B    src/index.js
+npm notice 1.1kB   webpack.config.js
+npm notice === Tarball Details ===
+npm notice name:          @t236522vfbfb/ajs-platform-public-create
+npm notice version:       1.0.0
+npm notice filename:      t236522vfbfb-ajs-platform-public-create-1.0.0.tgz
+npm notice package size:  2.5 MB
+npm notice unpacked size: 2.8 MB
+npm notice shasum:        47fd29da46baf913fb7e9e9684a34905ac6dba7e
+npm notice integrity:     sha512-WZ8DOu+cEflhH[...]RjlLGVklDTWzg==
+npm notice total files:   27
+npm notice
+npm notice Publishing to https://npm.pkg.github.com/ with tag latest and default access
+npm ERR! code E401
+npm ERR! 401 Unauthorized - PUT https://npm.pkg.github.com/@t236522vfbfb%2fajs-platform-public-create - unauthenticated: User cannot be authenticated with the token provided.
+
+npm ERR! A complete log of this run can be found in: C:\Users\Пользователь\AppData\Local\npm-cache\_logs\2024-02-19T17_48_28_028Z-debug-0.log

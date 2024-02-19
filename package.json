@@ -9,7 +9,7 @@
   "scripts": {
     "build": "webpack --mode production"
   },
-  "git repository": "https://github.com/T236522vfbfb/ajs-platform-public-create.git",
+  "git repository": "https://github.com/t236522vfbfb/ajs-platform-public-create.git",
   "author": "",
   "license": "ISC",
   "dependencies": {
